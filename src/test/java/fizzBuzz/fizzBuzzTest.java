@@ -35,6 +35,7 @@ class fizzBuzzTest {
 		assertEquals("2", fizzBuzz.fizzBuzz2(2));
 		assertEquals("4", fizzBuzz.fizzBuzz2(4));
 		assertEquals("7", fizzBuzz.fizzBuzz2(7));
+		assertEquals("8", fizzBuzz.fizzBuzz2(8));
 
 	}
 
